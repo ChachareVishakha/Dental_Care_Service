@@ -131,10 +131,4 @@ public class DCSApplicationController {
 	public String backToLogin() {
 		return "login";
 	}
-
-	@RequestMapping("/myadvancejavabatch137teams")
-	public String batch136Teams() {
-		return "batch137";
-	}
-	
 }
